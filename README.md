@@ -1,5 +1,5 @@
 # 💫 About Me:
- <br>I am a student of  Bachelor of Technology in Computer Science and Engineering at Punjabi University,Patiala.<br>I am currently in my 3rd Year.<br>I am currently doing my summer training in Machine Learning and Deep Learning at Thapar Summer School in Thapar University ,Patiala .<br>I am also learning Web development.<br>I am looking to collaborate on Web Development Projects.<br> I am currently a Google Cloud Facilitator at Punjabi University Patiala<br>Fun Fact About me: I can sing Punjabi and Hindi songs with full confidence but i also know My voice is not that good &#128540;<br> 
+ <br>I am a student of  Bachelor of Technology in Computer Science and Engineering at Punjabi University,Patiala.<br>I am currently in my 3rd Year.<br>I am currently doing my summer training in Machine Learning and Deep Learning at Thapar Summer School in Thapar University ,Patiala .<br>I am also learning Web development.<br>I am looking to collaborate on Web Development Projects.<br> I am currently a Google Cloud Arcade Facilitator<br>Fun Fact About me: I can sing Punjabi and Hindi songs with full confidence but i also know My voice is not that good &#128540;<br> 
 
 
 ## 🌐 Socials:
