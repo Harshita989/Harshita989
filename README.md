@@ -1,5 +1,34 @@
 # 💫 About Me:
- <br>I am a student of  Bachelor of Technology in Computer Science and Engineering at Punjabi University,Patiala.<br>I am currently in my 3rd Year.<br>I am currently doing my summer training in Machine Learning and Deep Learning at Thapar Summer School in Thapar University ,Patiala .<br>I am also learning Web development.<br>I am looking to collaborate on Web Development Projects.<br> I am currently a Google Cloud Arcade Facilitator<br>Fun Fact About me: I can sing Punjabi and Hindi songs with full confidence but i also know My voice is not that good &#128540;<br> 
+## 👋 Hi there, I'm Harshita!
+
+🎓 I'm an Engineering student and a tech enthusiast who loves building cool, impactful projects.  
+💻 Full-stack Web Developer | ☁️ Google Cloud Facilitator | 🤖 AI & ML Explorer
+
+### 🚀 What I Do
+- 🔨 Build full-stack apps using **MERN Stack**
+- 📱 Create mobile apps with **Flutter** & **Firebase**
+- ☁️ Work on cloud-based projects using **Google Cloud Platform**
+- 🧠 Integrate **AI/ML** into real-world use cases
+- 🎯 Solve real problems through **Hackathons & Live Projects**
+
+### 💼 Some Projects I'm Proud Of:
+- 🧭 **WanderLust** – A travel listing web app with auth, reviews & CRUD  
+- 🧑‍🎓 **Placement Cell Portal** – Filters and downloads student data based on admin-defined criteria  
+- 🌊 **JalSetu** – A citizen engagement & sustainability app built during a hackathon  
+- 📚 **EduHaven** – AI-powered educational platform using Gemini API
+
+### 🔍 Currently Exploring:
+- Firebase Authentication 🔐  
+- React Native & Advanced Flutter 📲  
+- Deployment & DevOps basics 🚢  
+- AI-powered Chatbots using Gemini API 💬
+
+### ⚡ Fun Facts:
+- I'm 5ft of pure energy ⚡  
+- I go to the gym to lift confidence (and some weights too) 🏋️‍♀️  
+- I believe learning never stops — especially when you're building!
+
+
 
 
 ## 🌐 Socials:
